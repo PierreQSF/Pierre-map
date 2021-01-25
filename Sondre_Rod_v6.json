@@ -41,7 +41,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsyRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"spisestuebord"
                 }],
@@ -59,7 +59,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsyRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"Kjokkenbord"
                 }],
