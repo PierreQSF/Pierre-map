@@ -39,12 +39,6 @@
          "id":14,
          "name":"Exit",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"labyrint_v1.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
